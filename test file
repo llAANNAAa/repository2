@@ -1,7 +1,10 @@
 #include <iostream>
+#include <stdio.h>
 
 int main(){
 
    cout<<"Hello, my name is HANA"<<endl;
+   cout<<"My major is computer programming"<<endl;
+   touched by llAANNAAa
 
 }
